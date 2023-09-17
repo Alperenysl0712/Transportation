@@ -1,0 +1,22 @@
+Firma Girişi İçin Firmalar tablosunda ID numarası var
+Personeller TC Kimlik No ile girecek Personel Bilgi Tablosunda parolalarıda TC no
+Kullanıcılar Tc veya ID iler girebilirler KullanıcıBilgi tablosunda var 
+
+10 tane personel 5 tane araç var ancak 1 şoför var firma girişinden sonra perosnel bilgiden atama yapabilirsiniz ancak küçük bir hata nedeniyle hata verebilir sql serverden personelbilgiden Şoförlere "Şoför"
+diğer Personele "Çalışan" yazabilirsiniz her araç için 1 tane şoför olacak
+
+Kullanıcılar Firma teklifi bölümünden nakliye bilgilerini girip firma bul diyince yeni sayfadan firmalar çıkacak bu kısımdan kullanıcı yorumlarına bakabilir butonu var gridviewdee
+firma bilgilerini görebilir ve teklif gönderebilir SEÇ butonuna tıklayınca. Pencereyi kapatıp çık gir yapacaklar teklifleri gözükecek firma girişi yapınca nakliye bilgilerinde
+teklifler gözükecek mesajlar butonu ile kullanıcı ile mesajlaşabilir teklifi kabul edip reddedebilirler. Kabul ettiklerinde gridviewde ki Durum kısmı Onaylandı olacak.
+
+Onaylandı olunca kullanıcılar tekliflerindeki DETAY butonu ile taşıyacak araç bilgilerini ve ekibi görebilirler ayrıca kullanıcılar da da mesaj butonu ile firma ile iletişime geçebilirler
+
+Takliye tamamlanınca firma nakliye bilgileri kısmında TAMAMLANDI butonuna basıcak Durmuda tamamlandı yazacak.
+
+Bundan sonra kullanıcı değerlendirme butonuna basınca ankeet kısmı açılacak ve puan ve yorum gözükecek yaptıkları yorumlar firma seçerkeen gözükecek.
+
+Personeller de TC ile firma girişi yapınca aktif olan nakliyatları ve bağlı oldukları araçları görecek ve müşteri ile iletişime geçebilir.
+
+Saygılarımla
+
+Alperen Burak Yeşil
